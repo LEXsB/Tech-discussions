@@ -12,7 +12,7 @@ This is a good example of [my code](https://gist.github.com/LEXsB/817213ed1305eb
 
 ### Colab Example
 
-This is the ![notebook](https://colab.research.google.com/drive/1igiTet1q8wcM7mMuDN75F_NNk4CYTmHi#scrollTo=flg_vBIVBR_O)
+This is the [notebook](https://colab.research.google.com/drive/1igiTet1q8wcM7mMuDN75F_NNk4CYTmHi#scrollTo=flg_vBIVBR_O)
 
 ### Image 
 
